@@ -1,1 +1,1 @@
-web: gunicorn PantryDjango.wsgi --log-file -
+web: gunicorn pantrydjango.wsgi --log-file -
